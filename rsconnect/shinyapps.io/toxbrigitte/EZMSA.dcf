@@ -1,0 +1,13 @@
+name: EZMSA
+title: EZMSA
+username: toxbrigitte
+account: toxbrigitte
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 9097820
+bundleId: 11995747
+url: https://toxbrigitte.shinyapps.io/EZMSA/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: input_data_example.csv
